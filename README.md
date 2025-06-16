@@ -4,6 +4,16 @@
 
 ---
 
+##️ スクリーンショット
+
+ゲーム画面の例：
+
+![BlackJack GUI 1](blackjack_gui.png)
+
+![BlackJack GUI 2](blackjack2_gui.png)
+
+---
+
 ##  開発環境
 
 - Java：バージョン 8 以上（※JDKが必要）
