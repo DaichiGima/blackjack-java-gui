@@ -10,6 +10,7 @@
 
 ![BlackJack GUI 1](blackjack_gui.png)
 ![BlackJack GUI 2](blackjack2_gui.png)
+
 ---
 
 ##  開発環境
